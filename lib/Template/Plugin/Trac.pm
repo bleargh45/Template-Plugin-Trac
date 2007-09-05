@@ -5,7 +5,7 @@ use warnings;
 use Text::Trac;
 use base qw(Template::Plugin::Filter);
 
-our $VERSION = '1.000';
+our $VERSION = '1.01_01';
 
 sub init {
     my $self = shift;
@@ -24,7 +24,7 @@ sub filter {
 
 =head1 NAME
 
-Template::Plugin::TextTrac - TT filter for Text::Trac
+Template::Plugin::Trac - TT filter for Text::Trac
 
 =head1 SYNOPSIS
 
@@ -39,7 +39,7 @@ Template::Plugin::TextTrac - TT filter for Text::Trac
 
 =head1 DESCRIPTION
 
-C<Template::Plugin::TextTrac> is a plugin for TT, which formats your text using
+C<Template::Plugin::Trac> is a plugin for TT, which formats your text using
 Trac's WikiFormatting style.
 
 =head1 AUTHOR
