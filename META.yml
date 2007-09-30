@@ -1,6 +1,6 @@
 ---
 name: Template-Plugin-Trac
-version: 1.01_01
+version: 1.01
 author:
   - Graham TerMarsch (cpan@howlingfrog.com)
 abstract: TT filter for Text::Trac
@@ -15,7 +15,7 @@ build_requires:
 provides:
   Template::Plugin::Trac:
     file: lib/Template/Plugin/Trac.pm
-    version: 1.01_01
+    version: 1.01
 generated_by: Module::Build version 0.2805
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
