@@ -2,6 +2,7 @@ Build.PL
 Makefile.PL
 Changes
 MANIFEST
+MANIFEST.SKIP
 META.yml
 lib/Template/Plugin/Trac.pm
 t/01-filter.t
