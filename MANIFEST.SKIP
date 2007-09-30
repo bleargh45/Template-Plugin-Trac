@@ -1,6 +1,8 @@
+Build
+_build/
 .svn/
 \..*\.swp
+blib/
 Makefile
 MANIFEST.SKIP
-blib/
 pm_to_blib
