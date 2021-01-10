@@ -64,11 +64,11 @@ Trac's WikiFormatting style.
 
 =item init()
 
-Initializes the template plugin. 
+Initializes the template plugin.
 
 =item filter($txt, $args, $config)
 
-Filters the given text, by running it through C<Text::Trac>. 
+Filters the given text, by running it through C<Text::Trac>.
 
 =back
 
