@@ -40,7 +40,7 @@ sub filter {
 
 =head1 NAME
 
-Template::Plugin::Trac - TT filter for Text::Trac
+Template::Plugin::Trac - Template::Toolkit filter for Text::Trac
 
 =head1 SYNOPSIS
 
@@ -55,8 +55,8 @@ Template::Plugin::Trac - TT filter for Text::Trac
 
 =head1 DESCRIPTION
 
-C<Template::Plugin::Trac> is a plugin for TT, which formats your text using
-Trac's WikiFormatting style.
+C<Template::Plugin::Trac> is a plugin for C<Template::Toolkit>, which formats
+your text using Trac's WikiFormatting style.
 
 =head1 METHODS
 

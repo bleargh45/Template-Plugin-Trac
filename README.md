@@ -1,6 +1,6 @@
 # NAME
 
-Template::Plugin::Trac - TT filter for Text::Trac
+Template::Plugin::Trac - Template::Toolkit filter for Text::Trac
 
 # SYNOPSIS
 
@@ -17,8 +17,8 @@ Template::Plugin::Trac - TT filter for Text::Trac
 
 # DESCRIPTION
 
-`Template::Plugin::Trac` is a plugin for TT, which formats your text using
-Trac's WikiFormatting style.
+`Template::Plugin::Trac` is a plugin for `Template::Toolkit`, which formats
+your text using Trac's WikiFormatting style.
 
 # METHODS
 
