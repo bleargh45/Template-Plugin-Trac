@@ -85,7 +85,12 @@ terms as Perl itself.
 
 =head1 SEE ALSO
 
-L<Text::Trac>,
-L<Template::Plugin::Filter>.
+=over
+
+=item L<Text::Trac>
+
+=item L<Template::Plugin::Filter>
+
+=back
 
 =cut

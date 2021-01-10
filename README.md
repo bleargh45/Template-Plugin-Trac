@@ -43,5 +43,5 @@ terms as Perl itself.
 
 # SEE ALSO
 
-[Text::Trac](https://metacpan.org/pod/Text%3A%3ATrac),
-[Template::Plugin::Filter](https://metacpan.org/pod/Template%3A%3APlugin%3A%3AFilter).
+- [Text::Trac](https://metacpan.org/pod/Text%3A%3ATrac)
+- [Template::Plugin::Filter](https://metacpan.org/pod/Template%3A%3APlugin%3A%3AFilter)
