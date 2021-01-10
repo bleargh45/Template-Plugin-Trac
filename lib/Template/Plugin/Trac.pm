@@ -38,6 +38,8 @@ sub filter {
 
 1;
 
+=for stopwords WikiFormatting
+
 =head1 NAME
 
 Template::Plugin::Trac - Template::Toolkit filter for Text::Trac
