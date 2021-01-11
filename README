@@ -1,0 +1,47 @@
+NAME
+
+    Template::Plugin::Trac - Template::Toolkit filter for Text::Trac
+
+SYNOPSIS
+
+      [% USE Trac %]
+      ...
+      [% FILTER trac %]
+        = Heading One =
+        == Heading Two ==
+      [% END %]
+      ...
+      [% text | trac %]
+
+DESCRIPTION
+
+    Template::Plugin::Trac is a plugin for Template::Toolkit, which formats
+    your text using Trac's WikiFormatting style.
+
+METHODS
+
+    init()
+
+      Initializes the template plugin.
+
+    filter($txt, $args, $config)
+
+      Filters the given text, by running it through Text::Trac.
+
+AUTHOR
+
+    Graham TerMarsch <cpan@howlingfrog.com>
+
+COPYRIGHT
+
+    Copyright (C) 2006-2007, Graham TerMarsch. All rights Reserved.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as Perl itself.
+
+SEE ALSO
+
+    Text::Trac
+
+    Template::Plugin::Filter
+
