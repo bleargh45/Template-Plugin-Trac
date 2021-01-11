@@ -1,6 +1,8 @@
 Revision history for Perl extension Template::Plugin::Trac
 
 {{$NEXT}}
+
+1.03      2021-01-10 23:34:31-08:00 America/Vancouver
     - Switch to Dist::Zilla for release management
     - POD fixups; spelling, lists
     - Bump minimum required Perl to 5.008
