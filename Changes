@@ -3,6 +3,7 @@ Revision history for Perl extension Template::Plugin::Trac
 {{$NEXT}}
     - Switch to Dist::Zilla for release management
     - POD fixups; spelling, lists
+    - Bump minimum required Perl to 5.008
 
 1.02    Fri Apr 23 22:17 PDT 2010
     - Switch to Git
